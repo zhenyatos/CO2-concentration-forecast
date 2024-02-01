@@ -31,7 +31,7 @@ pattern;
 - $R_i$ is the remaining residual that accounts for all other influences
 
 ## Results 
-Here is the brief summary, for more results check
+Here is a brief summary, for more results as well as methodology check the [report](https://github.com/zhenyatos/CO2-concentration-forecast/blob/main/report/report.pdf)
 
 After we tried several polynomial trends, the quadratic trend was picked as having the best bias-variance tradeoff, measured using MAPE (Mean Absolute Percentage Error) on train and test datasets. 
 Then, after removing the trend, the periodic component was derived using the averaging all values corresponding to the same month. The resulting model has MAPE of 0.21%. 
@@ -44,3 +44,5 @@ able to account for. This external regressor might be tied to the global warming
 
 ![output](https://github.com/zhenyatos/CO2-concentration-forecast/assets/47058532/121c018e-9b54-4af8-8008-1598e0a1cd00)
 
+## References 
+[Data](https://gml.noaa.gov/ccgg/trends/data.html) by *Dr. Pieter Tans, NOAA/GML (gml.noaa.gov/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).* 
