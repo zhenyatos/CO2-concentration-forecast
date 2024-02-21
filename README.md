@@ -22,7 +22,7 @@ from March 1958). We are looking for a description of the form:
 $$C_i = F(t_i) + P_i + R_i$$
 where
 - $F : t → F(t)$ accounts for the long-term trend;
-- $t_i$ is time at the middle of the $i$th month, measured in fractions of
+- $t_i$ is time at the middle of the $i^{th}$ month, measured in fractions of
 years after Jan 15, 1958. Specifically, we take $t_i = (i+0.5)/12$ where $i = 0$
 corresponds to Jan, 1958, adding $0.5$ is because the first measurement
 is halfway through the first month;
