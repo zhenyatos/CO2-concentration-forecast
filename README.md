@@ -5,7 +5,7 @@ Oceanography began recording $CO_2$ concentrations in the atmosphere at an
 observatory located at about 3,400 m altitude on the Mauna Loa Volcano
 on Hawaii Island.
 
-The location was chosen because it is not influenced by changing CO2
+The location was chosen because it is not influenced by changing $CO_2$
 levels due to the local vegetation and because prevailing wind patterns on this
 tropical island tend to bring well-mixed air to the site. While the recordings
 are made near a volcano (which tends to produce $CO_2$), wind patterns tend
